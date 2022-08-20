@@ -6,7 +6,7 @@ h1 {
     color: olive;
 }
 
-img {
-    float: left;
+.square-image {
     width: 25%;
+    float: left;
 }
