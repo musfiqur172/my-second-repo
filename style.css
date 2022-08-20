@@ -5,3 +5,8 @@ p {
 h1 {
     color: olive;
 }
+
+img {
+    float: left;
+    width: 25%;
+}
