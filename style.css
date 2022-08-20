@@ -2,11 +2,11 @@ p {
     color: navy;
 }
 
-h1 {
-    color: olive;
-}
-
 .square-image {
     width: 25%;
     float: left;
+}
+
+h1 {
+    color: olive;
 }
